@@ -18,6 +18,7 @@ To get a local copy of the code and run it, please follow these step:
 2- Change the directory to the directory of the local copy of the code
 
 3- Run npm install to install webpack to your local repository
+
 4- Run npm run build
 
 5- Run npm start

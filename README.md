@@ -14,9 +14,12 @@
 To get a local copy of the code and run it, please follow these step:
 
 1- Clone the repository
+
 2- Change the directory to the directory of the local copy of the code
+
 3- Run npm install to install webpack to your local repository
 4- Run npm run build
+
 5- Run npm start
 
 ## Authors
@@ -37,11 +40,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 

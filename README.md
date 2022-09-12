@@ -2,7 +2,7 @@
 
 # Project Name
 
-# Math-Magicians
+ Math-Magicians
 
 ## Built With
 

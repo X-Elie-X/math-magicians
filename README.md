@@ -23,6 +23,10 @@ To get a local copy of the code and run it, please follow these step:
 
 5- Run npm start
 
+## Live Demo  
+
+[liveDemo](https://632322aeb96f0b46f1d06304--luxury-zabaione-a1337a.netlify.app/)
+
 ## Authors
 
 👤 **Author1**

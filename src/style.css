@@ -44,14 +44,6 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: space-around;
-}
-
-.display .display2 {
-  color: #cad5e2;
-  font-size: 20px;
-}
-
-.display .diplay3 {
   color: #f3f7f9;
   font-size: 25px;
 }

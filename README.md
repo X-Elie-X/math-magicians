@@ -54,7 +54,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Live Demo  
 
-[liveDemo]()
+[liveDemo](https://my-calculator-x.netlify.app/Home)
 
 ## Authors
 

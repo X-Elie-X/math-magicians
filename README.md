@@ -1,13 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## Math-Magicians
 
- Math-Magicians
+**A project for math in React . This application allows you to do some basic math calculation in a single page application.**
 
 ## Built With
 
 - CSS
 - React App
+
 
 ## Getting Started
 

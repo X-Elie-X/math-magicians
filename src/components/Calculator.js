@@ -22,66 +22,71 @@ const Calculator = () => {
     }));
   };
   return (
-    <div className="calcutat">
-      <div className="display">{display}</div>
-      <button type="button" className="btn2" onClick={handleClick}>
-        AC
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        +/-
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        %
-      </button>
-      <button type="button" className="btn3" onClick={handleClick}>
-        ÷
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        7
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        8
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        9
-      </button>
-      <button type="button" className="btn3" onClick={handleClick}>
-        x
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        4
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        5
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        6
-      </button>
-      <button type="button" className="btn3" onClick={handleClick}>
-        -
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        1
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        2
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        3
-      </button>
-      <button type="button" className="btn3" onClick={handleClick}>
-        +
-      </button>
-      <button type="button" className="btn" onClick={handleClick}>
-        0
-      </button>
-      <button type="button" className="btn2" onClick={handleClick}>
-        .
-      </button>
-      <button type="button" className="btn3" onClick={handleClick}>
-        =
-      </button>
-    </div>
+    <>
+      <div>
+        <h2 className="math">Let`s do some math!</h2>
+      </div>
+      <div className="calcutat">
+        <div className="display">{display}</div>
+        <button type="button" className="btn2" onClick={handleClick}>
+          AC
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          +/-
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          %
+        </button>
+        <button type="button" className="btn3" onClick={handleClick}>
+          ÷
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          7
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          8
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          9
+        </button>
+        <button type="button" className="btn3" onClick={handleClick}>
+          x
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          4
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          5
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          6
+        </button>
+        <button type="button" className="btn3" onClick={handleClick}>
+          -
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          1
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          2
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          3
+        </button>
+        <button type="button" className="btn3" onClick={handleClick}>
+          +
+        </button>
+        <button type="button" className="btn" onClick={handleClick}>
+          0
+        </button>
+        <button type="button" className="btn2" onClick={handleClick}>
+          .
+        </button>
+        <button type="button" className="btn3" onClick={handleClick}>
+          =
+        </button>
+      </div>
+    </>
   );
 };
 
